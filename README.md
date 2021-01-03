@@ -1,5 +1,9 @@
 ### Hi there 👋
 I'm a junior backend developer 
+
+- 🌱 I’m currently learning ...django and nodejs
+- 👯 I’m looking to collaborate on ...projects like backend developer
+
 <!--
 **c0dejohn/c0dejohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
