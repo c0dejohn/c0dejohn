@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a junior backend developer 
 
-- 🌱 I’m currently learning ...**Django** and **node.js**
+- 🌱 I’m currently learning ...**node.js**
 - 👯 I’m looking to collaborate on ...projects like backend developer
 
 <!--
