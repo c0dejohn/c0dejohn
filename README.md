@@ -3,7 +3,7 @@ I'm a backend developer
 
 - 🌱 I’m currently learning ...**node.js**
 - 👯 I’m looking to collaborate on ...projects like backend developer
-- 🔭 I’m currently working on ... REST API's desing whit better practices, on node and python 
+- 🔭 I’m currently working on ... REST API's desing with better practices, on node and python 
 
 <!--
 **c0dejohn/c0dejohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
