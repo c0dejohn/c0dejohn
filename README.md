@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 👯 I’m looking to collaborate on ...projects like backend developer
-- 🔭 I’m currently working on ... REST API's desing with better practices, on node and python 
-
+- 🔭 I’m currently working on ... REST API's desing with better practices, in node and python, I'm using GCP with cloud functions to help me with handlers to respond to GraphQL API requests.
 <!--
 **c0dejohn/c0dejohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
