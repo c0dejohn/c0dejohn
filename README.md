@@ -1,5 +1,4 @@
 ### Hi there 👋
-I'm a backend developer 
 
 - 👯 I’m looking to collaborate on ...projects like backend developer
 - 🔭 I’m currently working on ... REST API's desing with better practices, on node and python 
